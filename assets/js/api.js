@@ -1,5 +1,5 @@
 
-async function fetchProfileData() {
+async function fetchProfileData() { //informações do git-hub
     const url = 'https://raw.githubusercontent.com/Natanael-cloud/js-developer-portfolio/refs/heads/main/data/profile.json';
     const fetching = await fetch(url);
     return await fetching.json();

@@ -13,19 +13,19 @@
       },
       {
         "name": "Javascript",
-        "logo": "https://github.com/Natanael-cloud/js-developer-portfolio/blob/main/data/imgs/js.png"
+        "logo": "https://raw.githubusercontent.com/Natanael-cloud/js-developer-portfolio/main/data/imgs/js.png"
       },
       {
         "name": "HTML5",
-        "logo": "https://github.com/Natanael-cloud/js-developer-portfolio/blob/main/data/imgs/html.png"
+        "logo": "https://raw.githubusercontent.com/Natanael-cloud/js-developer-portfolio/main/data/imgs/html.png"
       },
       {
         "name": "CSS3",
-        "logo": "https://github.com/Natanael-cloud/js-developer-portfolio/blob/main/data/imgs/css.png"
+        "logo": "https://raw.githubusercontent.com/Natanael-cloud/js-developer-portfolio/main/data/imgs/css.png"
       },
       {
         "name": "GIT",
-        "logo": "https://github.com/Natanael-cloud/js-developer-portfolio/blob/main/data/imgs/git.png"
+        "logo": "https://raw.githubusercontent.com/Natanael-cloud/js-developer-portfolio/main/data/imgs/git.png"
       }
     ],
     "softSkills": [
@@ -49,15 +49,15 @@
     }
   ],
   "professionalExperience": [
-   {
-    "name": "Operador de Atendimento Jr. / Europ Assistance Brasil",
-    "period": "nov de 2020 - out de 2023",
-    "description": "Atuei como Operador de Atendimento, oferecendo suporte a clientes e prestadores de serviços. Desenvolvi habilidades em comunicação eficaz, escuta ativa, trabalho em equipe e resolução de problemas."
-  },
-  {
-    "name": "Balconista de Atendimento II / Raia Drogasil S.A.",
-    "period": "fev de 2014 - mai de 2018",
-    "description": "Atuei no atendimento de clientes no comércio de medicamentos, desenvolvendo habilidades essenciais como escuta ativa, trabalho em equipe e resolução de problemas."
-  }
+    {
+      "name": "Operador de Atendimento Jr. / Europ Assistance Brasil",
+      "period": "nov de 2020 - out de 2023",
+      "description": "Atuei como Operador de Atendimento, oferecendo suporte a clientes e prestadores de serviços. Desenvolvi habilidades em comunicação eficaz, escuta ativa, trabalho em equipe e resolução de problemas."
+    },
+    {
+      "name": "Balconista de Atendimento II / Raia Drogasil S.A.",
+      "period": "fev de 2014 - mai de 2018",
+      "description": "Atuei no atendimento de clientes no comércio de medicamentos, desenvolvendo habilidades essenciais como escuta ativa, trabalho em equipe e resolução de problemas."
+    }
   ]
 }
